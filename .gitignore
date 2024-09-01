@@ -1,6 +1,6 @@
 # Ignorar diretório de build/output
 /output
-
+desafio.md
 
 # Ignorar arquivos de dependências
 /node_modules/
