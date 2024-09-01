@@ -1,0 +1,7 @@
+# Ignorar diretório de build/output
+/output
+
+
+# Ignorar arquivos de dependências
+/node_modules/
+/vendor/
